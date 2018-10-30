@@ -20,7 +20,10 @@ When starting out with linux, there are some basic commands everyone should know
 - Type `pwd` to display the path to your current directory.
 
  5. **mkdir** - make directory 
-- This command, followed by the name you wish to name your directory, creates a new directory. `mkdir folder1` will make a new directory called folder1.
+- This command, followed by the name you wish to name your directory, creates a new directory. `mkdir folder1` will make a new directory called folder1. The command takes the following options:
+ -m : This option is used to set the file mode for the created directory.
+ -p : This option creates parent directories as necessary.
+ -v : With this option,a message is printed for each created dirrectory.
 
  6. **rmdir** - remove directory   
 - Removes the directory that follows the command. `rmdir folder1` will delete the directory named folder1 if it exists.
