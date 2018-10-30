@@ -3,7 +3,7 @@ title: Linear Regression
 ---
 ## Linear Regression
 Linear regression is a type of regression, or one of the several regression techniques which are used to find the best fitting line for the given set of points in the given dataset.
-Linear regression helps us predict score of a variable X from the scores on other variables Y. When the variables Y are plotted, linear regression finds the best-fitting straight line through the points. The best-fitting line is called a regression line.
+Linear regression helps us predict score of a variable X from the scores on other variables Y.If the output was predicted with one variable,such regression is called univariate linear regression. For more than one variable,it is called multivariate linear regression. When the variables Y are plotted, linear regression finds the best-fitting straight line through the points. The best-fitting line is called a regression line.
 This is done by taking a line equation and comparing it with the points and the required result and then calibrated in such a way that the difference/distance between the points and the line, or simply error, is kept to the minimum. This way of calibrating is called Least Squared Error method.
 
 [Online linear regression simulator](https://www.mladdict.com/linear-regression-simulator)
