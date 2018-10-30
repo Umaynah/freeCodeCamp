@@ -1,5 +1,5 @@
 ---
-title: What Is Python Used for
+title: Uses of the Python Language
 ---
 
 ## What Is Python Used for
@@ -8,8 +8,7 @@ Python can easily be used for small, large, online and offline projects. The bes
 Below are a few examples of what Python will let you do:
 
 ##### Web Development:
-You can use Python to create web applications on many levels of complexity. There are many excellent Python web frameworks, including Pyramid, Django and Flask, to name
-a few.
+You can use Python to create web applications on many levels of complexity. There are many excellent Python web frameworks, including Pyramid, Django and Flask, to name a few.
 
 ##### Data Science / Analysis:
 
